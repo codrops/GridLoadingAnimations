@@ -83,7 +83,7 @@
 				rotateZ: [15,0]
 			}
 		},
-		'Isis': {
+		'Isor': {
 			animeOpts: {
 				duration: 900,
 				elasticity: 500,
